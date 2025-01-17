@@ -1,6 +1,6 @@
 <div align="center">
-    <img src="https://capsule-render.vercel.app/api?type=shark&color=0:efafaf,100:f391eb&height=240&text=TODAY%20I%20LEARNED&animation=blink&fontColor=ffffff&fontSize=70" />
-    <img src="images/kawaii.gif" alt="hello" width="200" />
+    <img src="https://capsule-render.vercel.app/api?type=shark&color=0:efafaf,100:f391eb&height=240&text=TODAY%20I%20LEARNED&animation=blink&fontColor=ffffff&fontSize=70&fontAlignY=40&font=Dancing Script" />
+    <img src="images/kawaii.gif" alt="hello" width="800" />
 </div>
 
 <div style="text-align: left;"> 
