@@ -99,7 +99,12 @@ chatInput.addEventListener('keyup', (e) => {
 
 ```
 
-[>ChatGPT API documents<](https://platform.openai.com/docs/api-reference/making-requests)
+### [>ChatGPT API documents<](https://platform.openai.com/docs/api-reference/making-requests)
+
+<br/>
+
+<br/>
+<br/>
 
 하지만 GPT 유료모델을 쓰지 않아서
 
@@ -124,13 +129,15 @@ type
 이런 에러메시지가 떴다 (유감)
 
 <br/>
+<br/>
 
-하지만 우리의 자비로운 싸피는 API 키를 잠시 대여해줬다
+하지만 우리의 ~~자비로운~~ 싸피는 API 키를 ***잠시*** 대여해줬다
 
 ``` js
 console.log(res.data)
 ```
-이게 프린트라고 한다 (솔직히 지금까지는 잘 모르겠다)
+이게 프린트라고 한다 ~~(솔직히 지금까지는 잘 모르겠다)~~
+<br/>
 콘솔 로그라고 한다
 -> 파이썬의 `print`와 같은 개념이라고 이해하자
 
